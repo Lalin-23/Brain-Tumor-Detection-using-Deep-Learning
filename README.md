@@ -89,6 +89,4 @@ This design ensures:
 - PIL (Image Processing)  
 - Scikit-learn  
 
----
 
-## 📁 Project Structure
